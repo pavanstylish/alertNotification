@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.success {
+  color: #2dca73;
+}
+
+.icon {
+  height: 70px;
+  min-width: 30px;
+  margin-right: 14px;
+}
